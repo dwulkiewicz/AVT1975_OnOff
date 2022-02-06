@@ -1,0 +1,1 @@
+d:\PROJEKTY\Avr.Zasoby\bin\Avrdude\avrdude.exe -c usbasp -p t25 -P usb -B 0.5 -v -U flash:w:"d:\PROJEKTY\Projects.Avr.AvrStudio\AVT1974\AVT1975_OnOff\AVT1975_OnOff.ino.tiny8.hex":i 
